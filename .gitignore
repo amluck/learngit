@@ -6,7 +6,7 @@
 test.txt
 *.test
 config.json
-
+LICENSE
 #Other
 
 /public/js/config.js
