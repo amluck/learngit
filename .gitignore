@@ -1,0 +1,12 @@
+#Directory
+/data
+
+
+#Files
+
+*.test
+config.json
+
+#Other
+
+/public/js/config.js
