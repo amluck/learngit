@@ -3,7 +3,7 @@
 
 
 #Files
-
+test.txt
 *.test
 config.json
 
